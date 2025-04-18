@@ -1,0 +1,30 @@
+Station ID: 07353000
+Name: Saline Byu nr Clarence, LA
+Location: 31.76806, -92.96944
+Daily Data: Yes
+Instantaneous Data: No
+
+Station ID: 07353800
+Name: Youngs Bayou at Natchitoches, LA
+Location: 31.75016, -93.11128
+Daily Data: Yes
+Instantaneous Data: No
+
+Station ID: 07354625
+Name: Bayou Provencal at Flora, LA
+Location: 31.60295, -93.10294
+Daily Data: Yes
+Instantaneous Data: No
+
+Station ID: 07354690
+Name: BYU LUCE NR CYPRESS, LA
+Location: 31.58489, -93.04738
+Daily Data: Yes
+Instantaneous Data: No
+
+Station ID: 07354700
+Name: Kisatchie Bayou at Cypress, LA
+Location: 31.59600, -93.04183
+Daily Data: Yes
+Instantaneous Data: No
+

@@ -1,0 +1,24 @@
+# Python environment
+USGS_flow/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+*.log
+
+# Output & temp files
+file_list.txt
+
+# Personal notes and manual outputs
+___Notes for Mohsen/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
